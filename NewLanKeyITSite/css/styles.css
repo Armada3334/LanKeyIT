@@ -1,8 +1,0 @@
-.pureblack {
-    background-color: #000000;
-  }
-
-.invert {
-   -webkit-filter: invert(1);
-   filter: invert(1);
-   }

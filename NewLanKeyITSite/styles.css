@@ -1,0 +1,14 @@
+.bg-img {
+  background-image: url('images/circuit.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pureblack {
+  background-color: #000000;
+}
+
+.invert {
+   -webkit-filter: invert(1);
+   filter: invert(1);
+   }
